@@ -1,2 +1,2 @@
 # java-script
- curso de jaa script
+ curso de java script
